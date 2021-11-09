@@ -1,0 +1,131 @@
+{
+    "title": "MICA-MICs: a dataset for Microstructure-Informed Connectomics",
+    "creators": [
+        {
+            "name": "Jessica Royer"
+        },
+        {
+            "name": "Raul Rodriguez-Cruces"
+        },
+        {
+            "name": "Shahin Tavakol"
+        },
+        {
+            "name": "Sara Lariviere"
+        },
+        {
+            "name": "Peer Herholz"
+        },
+        {
+            "name": "Qiongling Li"
+        },
+        {
+            "name": "Reinder Vos de Wael"
+        },
+        {
+            "name": "Casey Paquola"
+        },
+        {
+            "name": "Oualid Benkarim"
+        },
+        {
+            "name": "Bo-yong Park"
+        }
+    ],
+    "description": "The MICA-MICs dataset provides raw and fully processed multimodal neuroimaging data acquired in 50 healthy control participants at a field strength of 3T. Modalities include high-resolution anatomical (T1-weighted), microstructurally-sensitive (quantitative T1), diffusion-weighted and resting-state functional imaging. In addition, MICA-MICs provides ready-to-use connectomes built across multiple parcellation schemes based on brain anatomy, function, and histology (18 parcellations in total). Processed matrices are available for each imaging modality across a range of parcellation scales. Due to storage limitations, only derivatives (MRIQC outputs, processed matrices, and gradients) are made available in this repository. Researchers wishing to access MICA-MICs raw data can do so from the Canadian Open Neuroscience Platform's data portal: https://portal.conp.ca/dataset?id=projects/mica-mics \n\nPlease cite the following reference if you use this dataset:\nRoyer, J., Rodriguez-Cruces, R., Tavakol, S., Lariviere, S., Herholz, P., Li, Q., Vos de Wael, R., Paquola, C., Benkarim, O., Park, B., Lowe, A.J., Margulies, D.S., Smallwood, J., Bernasconi, A., Bernasconi, N., Frauscher, B., Bernhardt, B.C., 2021. An open MRI dataset for multiscale neuroscience. bioRxiv 2021.08.04.454795. https://doi.org/10.1101/2021.08.04.454795",
+    "version": "2021-10-15T19:46:57.788000",
+    "licenses": [
+        {
+            "name": "Other"
+        }
+    ],
+    "dates": [
+        {
+            "date": "2021-10-08 12:10:25",
+            "type": {
+                "value": "date created"
+            }
+        },
+        {
+            "date": "2021-10-15 19:46:57",
+            "type": {
+                "value": "date modified"
+            }
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        },
+        {
+            "value": "connectome"
+        },
+        {
+            "value": "diffusion-weighted imaging"
+        },
+        {
+            "value": "functional imaging"
+        },
+        {
+            "value": "gradients"
+        },
+        {
+            "value": "MRI"
+        },
+        {
+            "value": "multimodal"
+        },
+        {
+            "value": "structural imaging"
+        }
+    ],
+    "distributions": [
+        {
+            "size": 4.8,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/j532r/",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://osf.io/static/img/institutions/shields/cos-shield.png"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "9580"
+                }
+            ]
+        }
+    ],
+    "identifier": {
+        "identifier": "10.17605/OSF.IO/J532R",
+        "identifierSource": "OSF DOI"
+    },
+    "types": [
+        {
+            "value": "fMRI"
+        },
+        {
+            "value": "diffusion"
+        },
+        {
+            "value": "MRI"
+        }
+    ]
+}
